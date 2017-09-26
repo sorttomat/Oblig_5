@@ -1,6 +1,9 @@
 """
-Dette programmet tar nå inn en tekstfil som heter "a_study_in_scarlet.txt", lager ord-objekter
-av hvert ord (det samme ordet blir ikke laget til et objekt flere ganger), som ligger lagret i ordliste-klassen.
+Lag et program som inneholder klassene Ord, og Ordliste. Bruk disse klassene til aa gaa gjennom
+filen "a_study_in_scarlet.txt". Lag passende metoder, slik at hvert ord (som ikke finnes der fra foer)
+blir instanser av Ord-klassen, som blir lagret i en liste i Ordliste-klassen. 
+Dersom det finnes flere av samme ord i teksten, skal antallet av dette ordet oekes. 
+Legg til flere metoder hvis du har lyst. 
 """
 
 class Ord:

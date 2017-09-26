@@ -17,6 +17,8 @@ def hovedprogram():
     print (b)
     print (a)
 
+hovedprogram()
+
 """
 minFunksjon defineres. Deretter defineres hovedprogram. Ingen av disse funksjonene
 tar inn noen parametre. Forst blir hovedprogram() kalt paa:
